@@ -1,0 +1,33 @@
+.. _splinepy.microstructure.tiles.tilebase:
+
+splinepy.microstructure.tiles.tilebase
+======================================
+
+.. automodule:: splinepy.microstructure.tiles.tilebase
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template:
+   
+      TileBase
+   
+   
+
+   
+   
+   
+
+
+

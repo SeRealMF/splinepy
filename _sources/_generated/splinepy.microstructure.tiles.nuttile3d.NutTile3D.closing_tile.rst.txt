@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.nuttile3d.NutTile3D.closing\_tile
+===============================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.nuttile3d
+
+.. automethod:: NutTile3D.closing_tile

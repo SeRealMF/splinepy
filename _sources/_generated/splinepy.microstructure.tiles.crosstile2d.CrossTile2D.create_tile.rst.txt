@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.crosstile2d.CrossTile2D.create\_tile
+==================================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.crosstile2d
+
+.. automethod:: CrossTile2D.create_tile

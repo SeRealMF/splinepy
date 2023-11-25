@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.nuttile3d.NutTile3D.create\_tile
+==============================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.nuttile3d
+
+.. automethod:: NutTile3D.create_tile

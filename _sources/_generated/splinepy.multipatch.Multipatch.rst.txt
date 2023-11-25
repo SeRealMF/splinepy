@@ -1,0 +1,132 @@
+splinepy.multipatch.Multipatch
+==============================
+
+.. currentmodule:: splinepy.multipatch
+
+.. autoclass:: Multipatch
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+          Multipatch.add_fields
+        
+      
+      
+        
+          Multipatch.boundaries_from_continuity
+        
+      
+      
+        
+          Multipatch.boundary_from_function
+        
+      
+      
+        
+          Multipatch.boundary_multipatch
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+          Multipatch.combine_boundaries
+        
+      
+      
+        
+      
+      
+        
+          Multipatch.determine_interfaces
+        
+      
+      
+        
+          Multipatch.evaluate
+        
+      
+      
+        
+          Multipatch.sample
+        
+      
+      
+        
+          Multipatch.set_boundary
+        
+      
+      
+        
+          Multipatch.show
+        
+      
+      
+        
+          Multipatch.showable
+        
+      
+      
+        
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+         Multipatch.boundaries
+      
+      
+      
+         Multipatch.dim
+      
+      
+         Multipatch.extract
+      
+      
+         Multipatch.fields
+      
+      
+         Multipatch.interfaces
+      
+      
+      
+      
+         Multipatch.para_dim
+      
+      
+         Multipatch.patches
+      
+      
+      
+         Multipatch.show_options
+      
+      
+         Multipatch.spline_data
+      
+      
+         Multipatch.sub_patch_centers
+      
+      
+      
+   
+   

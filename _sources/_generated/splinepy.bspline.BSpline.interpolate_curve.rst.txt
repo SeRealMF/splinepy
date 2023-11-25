@@ -1,0 +1,6 @@
+splinepy.bspline.BSpline.interpolate\_curve
+===========================================
+
+.. currentmodule:: splinepy.bspline
+
+.. automethod:: BSpline.interpolate_curve

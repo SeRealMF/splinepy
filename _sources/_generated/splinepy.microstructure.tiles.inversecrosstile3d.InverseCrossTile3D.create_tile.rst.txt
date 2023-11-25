@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.inversecrosstile3d.InverseCrossTile3D.create\_tile
+================================================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.inversecrosstile3d
+
+.. automethod:: InverseCrossTile3D.create_tile

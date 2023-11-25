@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.tilebase.TileBase.dim
+===================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.tilebase
+
+.. autoproperty:: TileBase.dim

@@ -1,0 +1,6 @@
+splinepy.bspline.BSpline.interpolate\_surface
+=============================================
+
+.. currentmodule:: splinepy.bspline
+
+.. automethod:: BSpline.interpolate_surface

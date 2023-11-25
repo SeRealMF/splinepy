@@ -1,0 +1,6 @@
+splinepy.spline.Spline.knot\_vector\_bounds
+===========================================
+
+.. currentmodule:: splinepy.spline
+
+.. autoproperty:: Spline.knot_vector_bounds

@@ -1,0 +1,42 @@
+splinepy.microstructure.tiles.cube3d.Cube3D
+===========================================
+
+.. currentmodule:: splinepy.microstructure.tiles.cube3d
+
+.. autoclass:: Cube3D
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+      
+      
+        
+      
+      
+        
+          Cube3D.create_tile
+        
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+   
+   

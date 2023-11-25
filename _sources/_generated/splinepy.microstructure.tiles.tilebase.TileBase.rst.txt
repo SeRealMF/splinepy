@@ -1,0 +1,45 @@
+splinepy.microstructure.tiles.tilebase.TileBase
+===============================================
+
+.. currentmodule:: splinepy.microstructure.tiles.tilebase
+
+.. autoclass:: TileBase
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+          TileBase.check_param_derivatives
+        
+      
+      
+        
+          TileBase.check_params
+        
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+         TileBase.dim
+      
+      
+         TileBase.evaluation_points
+      
+   
+   

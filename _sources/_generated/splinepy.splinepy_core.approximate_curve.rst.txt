@@ -1,0 +1,6 @@
+splinepy.splinepy\_core.approximate\_curve
+==========================================
+
+.. currentmodule:: splinepy.splinepy_core
+
+.. autofunction:: approximate_curve

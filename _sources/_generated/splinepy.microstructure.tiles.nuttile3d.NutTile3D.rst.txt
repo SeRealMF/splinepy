@@ -1,0 +1,47 @@
+splinepy.microstructure.tiles.nuttile3d.NutTile3D
+=================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.nuttile3d
+
+.. autoclass:: NutTile3D
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+      
+      
+        
+      
+      
+        
+          NutTile3D.closing_tile
+        
+      
+      
+        
+          NutTile3D.create_tile
+        
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+   
+   

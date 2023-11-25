@@ -1,0 +1,6 @@
+splinepy.splinepy\_core.approximate\_surface
+============================================
+
+.. currentmodule:: splinepy.splinepy_core
+
+.. autofunction:: approximate_surface

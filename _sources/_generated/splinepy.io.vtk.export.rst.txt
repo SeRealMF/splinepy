@@ -1,0 +1,6 @@
+splinepy.io.vtk.export
+======================
+
+.. currentmodule:: splinepy.io.vtk
+
+.. autofunction:: export

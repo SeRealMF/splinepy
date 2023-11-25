@@ -1,0 +1,32 @@
+.. _splinepy.helpme.permute:
+
+splinepy.helpme.permute
+=======================
+
+.. automodule:: splinepy.helpme.permute
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      parametric_axes
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

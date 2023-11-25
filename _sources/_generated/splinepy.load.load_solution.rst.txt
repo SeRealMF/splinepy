@@ -1,0 +1,6 @@
+splinepy.load.load\_solution
+============================
+
+.. currentmodule:: splinepy.load
+
+.. autofunction:: load_solution

@@ -1,0 +1,6 @@
+splinepy.splinepy\_core.interpolate\_curve
+==========================================
+
+.. currentmodule:: splinepy.splinepy_core
+
+.. autofunction:: interpolate_curve

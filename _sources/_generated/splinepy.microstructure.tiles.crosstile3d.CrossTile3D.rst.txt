@@ -1,0 +1,42 @@
+splinepy.microstructure.tiles.crosstile3d.CrossTile3D
+=====================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.crosstile3d
+
+.. autoclass:: CrossTile3D
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+      
+      
+        
+      
+      
+        
+          CrossTile3D.create_tile
+        
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+   
+   

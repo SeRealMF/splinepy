@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.tilebase.TileBase.evaluation\_points
+==================================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.tilebase
+
+.. autoproperty:: TileBase.evaluation_points

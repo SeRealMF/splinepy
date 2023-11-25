@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.tilebase.TileBase.check\_param\_derivatives
+=========================================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.tilebase
+
+.. automethod:: TileBase.check_param_derivatives

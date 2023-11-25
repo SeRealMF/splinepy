@@ -1,0 +1,6 @@
+splinepy.bspline.BSpline.approximate\_curve
+===========================================
+
+.. currentmodule:: splinepy.bspline
+
+.. automethod:: BSpline.approximate_curve

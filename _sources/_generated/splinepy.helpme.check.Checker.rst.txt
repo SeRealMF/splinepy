@@ -1,0 +1,28 @@
+splinepy.helpme.check.Checker
+=============================
+
+.. currentmodule:: splinepy.helpme.check
+
+.. autoclass:: Checker
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+          Checker.valid_queries
+        
+      
+   
+   
+
+   
+   
+   

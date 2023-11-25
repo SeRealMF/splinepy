@@ -1,0 +1,32 @@
+.. _splinepy.io.vtk:
+
+splinepy.io.vtk
+===============
+
+.. automodule:: splinepy.io.vtk
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      export
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

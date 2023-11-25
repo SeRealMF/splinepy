@@ -1,0 +1,6 @@
+splinepy.microstructure.tiles.tilebase.TileBase.check\_params
+=============================================================
+
+.. currentmodule:: splinepy.microstructure.tiles.tilebase
+
+.. automethod:: TileBase.check_params

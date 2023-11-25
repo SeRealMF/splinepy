@@ -1,0 +1,161 @@
+splinepy.bspline.BSpline
+========================
+
+.. currentmodule:: splinepy.bspline
+
+.. autoclass:: BSpline
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+          BSpline.approximate_curve
+        
+      
+      
+        
+          BSpline.approximate_surface
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+          BSpline.interpolate_curve
+        
+      
+      
+        
+          BSpline.interpolate_surface
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+         BSpline.bspline
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+         BSpline.nurbs
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+   
+   

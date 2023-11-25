@@ -1,0 +1,145 @@
+splinepy.bspline.BSplineBase
+============================
+
+.. currentmodule:: splinepy.bspline
+
+.. autoclass:: BSplineBase
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+          BSplineBase.extract_bezier_patches
+        
+      
+      
+        
+      
+      
+        
+          BSplineBase.insert_knots
+        
+      
+      
+        
+      
+      
+        
+          BSplineBase.knot_insertion_matrix
+        
+      
+      
+        
+      
+      
+        
+          BSplineBase.normalize_knot_vectors
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+          BSplineBase.remove_knots
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+   
+   

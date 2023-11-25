@@ -1,0 +1,6 @@
+splinepy.bspline.BSpline.approximate\_surface
+=============================================
+
+.. currentmodule:: splinepy.bspline
+
+.. automethod:: BSpline.approximate_surface

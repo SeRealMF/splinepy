@@ -1,0 +1,6 @@
+splinepy.splinepy\_core.interpolate\_surface
+============================================
+
+.. currentmodule:: splinepy.splinepy_core
+
+.. autofunction:: interpolate_surface

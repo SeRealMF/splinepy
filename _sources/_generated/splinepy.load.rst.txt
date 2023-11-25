@@ -1,0 +1,33 @@
+.. _splinepy.load:
+
+splinepy.load
+=============
+
+.. automodule:: splinepy.load
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      load_solution
+      load_splines
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

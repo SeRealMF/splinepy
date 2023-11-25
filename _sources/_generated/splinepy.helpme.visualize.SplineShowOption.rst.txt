@@ -1,0 +1,50 @@
+splinepy.helpme.visualize.SplineShowOption
+==========================================
+
+.. currentmodule:: splinepy.helpme.visualize
+
+.. autoclass:: SplineShowOption
+   :show-inheritance:
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+   
+   
+
+   
+   
+   
